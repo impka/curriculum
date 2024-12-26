@@ -14,6 +14,8 @@ This section contains a general overview of topics that you will learn in this l
 - Explain what IP addresses are.
 - Explain what DNS servers are.
 
+Ya mama 
+
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
