@@ -16,6 +16,8 @@ This section contains a general overview of topics that you will learn in this l
 
 Ya mama 
 
+ Ya dada
+ 
 ### Assignment
 
 <div class="lesson-content__panel" markdown="1">
